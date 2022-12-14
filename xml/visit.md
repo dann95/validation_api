@@ -239,7 +239,7 @@ notes
 
 ___
 
-#### get:/visit-origin <span id="endpoint122"><span>
+#### get:/visit-origin <span id="endpoint12"><span>
 - [x] expected response
 - [x] partial URI parameters sent
 - [x] invalid URI parameters sent
