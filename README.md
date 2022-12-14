@@ -7,4 +7,4 @@
 ### O que já foi feito?
 | Nome do Fluxo | Link documentação | STATUS       |
 |---------------|-------------------|--------------|
-| Visit.xml     | [visit.xml](xml/visit.md)         | em andamento |
+| Visit.xml     | [visit.xml](xml/visit.md)| em andamento |

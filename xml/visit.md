@@ -1,6 +1,41 @@
 ## Visit.xml
 
-#### post:/visit-web
+| status | em andamento |
+|--------|--------------|
+
+
+| endpoint                       | status                     | link                     |
+|--------------------------------|----------------------------|--------------------------|
+| post:/visit-web                | com problemas              | [aqui](#endpoint1) |
+| post:/visit                    | com problemas              | [aqui](#endpoint2) |
+| post:/visit-count-web          | com problemas              | [aqui](#endpoint3) |
+| get:/visit-count               | com problemas              | [aqui](#endpoint4) |
+| get:/visit                     | com problemas              | [aqui](#endpoint5) |
+| put:/visit-shared-users        | com problemas              | [aqui](#endpoint6) |
+| get:/visit-shared-users        | com problemas              | [aqui](#endpoint7) |
+| get:/view-visit-users          | com problemas              | [aqui](#endpoint8) |
+| put:/view-visit-users-regional | com problemas              | [aqui](#endpoint9) |
+| post:/visit-type               | com problemas              | [aqui](#endpoint10) |
+| post:/visit-definitive-sharing | com problemas              | [aqui](#endpoint11) |
+| get:/visit-origin              | funcional, com observações | [aqui](#endpoint12) |
+
+
+<br>
+<br>
+<br>
+<br>
+
+---
+---
+---
+
+<br>
+<br>
+<br>
+<br>
+
+
+#### post:/visit-web <span id="endpoint1"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -19,7 +54,7 @@ notes
 
 ___
 
-#### post:/visit
+#### post:/visit <span id="endpoint2"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -39,7 +74,7 @@ notes
 
 ___
 
-#### post:/visit-count-web
+#### post:/visit-count-web <span id="endpoint3"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -58,7 +93,7 @@ notes
 
 ___
 
-#### get:/visit-count
+#### get:/visit-count <span id="endpoint4"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -75,7 +110,7 @@ notes
 
 ___
 
-#### get:/visit
+#### get:/visit <span id="endpoint5"><span>
 não achei referência para ele
 - [ ] expected response
 - [ ] expected payload
@@ -94,7 +129,7 @@ notes
 
 ___
 
-#### put:/visit-shared-users
+#### put:/visit-shared-users <span id="endpoint6"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -112,7 +147,7 @@ notes
 
 ___
 
-#### get:/visit-shared-users
+#### get:/visit-shared-users <span id="endpoint7"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -130,7 +165,7 @@ notes
 
 ___
 
-#### get:/view-visit-users
+#### get:/view-visit-users <span id="endpoint8"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -150,7 +185,7 @@ notes
 
 ___
 
-#### put:/view-visit-users-regional
+#### put:/view-visit-users-regional <span id="endpoint9"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -167,7 +202,7 @@ notes
 
 ___
 
-#### post:/visit-type
+#### post:/visit-type <span id="endpoint10"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -187,7 +222,7 @@ notes
 
 ___
 
-#### post:/visit-definitive-sharing
+#### post:/visit-definitive-sharing <span id="endpoint11"><span>
 - [ ] expected response
 - [ ] expected payload
 - [ ] partial payload sent (ignore on GET)
@@ -204,7 +239,7 @@ notes
 
 ___
 
-#### get:/visit-origin
+#### get:/visit-origin <span id="endpoint122"><span>
 - [x] expected response
 - [x] partial URI parameters sent
 - [x] invalid URI parameters sent
